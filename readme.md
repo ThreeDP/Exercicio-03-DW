@@ -1,8 +1,8 @@
 # Acesso Página
-https://threedp.github.io/Exercicio-02-DW/
+https://threedp.github.io/Exercicio-03-DW/
 
 # Arquivos do site
-https://github.com/ThreeDP/Exercicio-02-DW
+https://github.com/ThreeDP/Exercicio-03-DW
 
 # Descrição exercicio
 
